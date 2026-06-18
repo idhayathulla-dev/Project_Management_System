@@ -9,7 +9,6 @@ client/out/
 server/dist/
 server/build/
 *.tsbuildinfo
-next-env.d.ts
 
 # Environment configurations (secrets)
 .env
