@@ -254,5 +254,5 @@ Refer to the [Deployment Guide](docs/DEPLOYMENT_GUIDE.md) in the `docs` folder f
 
 ## 👤 Author
 
-* **Idhay** - Full-Stack Developer & Security Engineer
+* **Idhayathulla** - Computer Science Engineering Student
 * GitHub: [idhayathulla-dev](https://github.com/idhayathulla-dev)
