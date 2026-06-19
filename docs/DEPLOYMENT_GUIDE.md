@@ -34,7 +34,7 @@ Render is ideal for deploying Node.js Express servers.
    - **Region**: Select a region close to your database.
    - **Branch**: `main` or `master`
    - **Root Directory**: `server`
-   - **Build Command**: `npm ci && npm run build`
+   - **Build Command**: `npm install --include=dev && npm run build`
    - **Start Command**: `npx prisma migrate deploy --schema=../prisma/schema.prisma && npx prisma migrate status --schema=../prisma/schema.prisma && npm start`
 5. Click **Advanced** and add the following **Environment Variables**:
    - `NODE_ENV`: `production`
