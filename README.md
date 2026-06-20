@@ -197,11 +197,6 @@ All endpoints are fully documented according to the OpenAPI specification and ar
 - **Interactive Swagger Playground**: Open [http://localhost:5000/api/docs](http://localhost:5000/api/docs) in your browser when the server is active.
 - **API Spec Details**: Refer to [docs/API_REFERENCE.md](docs/API_REFERENCE.md) for full REST routing specifications.
 
----
-
-## 🚀 Production Deployment
-
-Refer to the [Deployment Guide](docs/DEPLOYMENT_GUIDE.md) in the `docs` folder for detailed deployment instructions on **Neon (PostgreSQL)**, **Render (Express API)**, and **Vercel (Next.js Client)**.
 
 ---
 
